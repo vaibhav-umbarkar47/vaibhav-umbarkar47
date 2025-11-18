@@ -1,73 +1,24 @@
-![profile view counter on GitHub](https://komarev.com/ghpvc/?username=vaibhav-umbarkar47)
+# 💫 About Me:
+🎓 Aspiring Data Scientist<br><br>🐍 Skilled in Python for data analysis & automation<br><br>🧮 Strong foundation in Statistics<br><br>🗃️ Experienced with MySQL (queries, joins, functions)<br><br>📊 Solid understanding of EDA (Exploratory Data Analysis)<br><br>📈 Creating interactive reports using Power BI<br><br>🌐 Hands-on with Web Scraping (Selenium / BeautifulSoup)<br><br>📚 Constantly learning & improving my analytical skills
 
-# 👋 Hi, I'm **Vaibhav Umbarkar**
-### 🚀 *Aspiring Data Scientist | Data Analyst | ML Enthusiast*
 
-Welcome to my GitHub!  
-I’m passionate about transforming raw data into meaningful insights and building data-driven solutions. I love exploring datasets, uncovering trends, and creating impactful dashboards & models.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-umbarkar-023667324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vumbarkar227@gmail.com) 
 
----
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaibhav-umbarkar47&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhav-umbarkar47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-umbarkar47&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🧑‍💻 About Me
-- 🎓 Aspiring **Data Scientist**
-- 🐍 Skilled in **Python** for data analysis & automation
-- 🧮 Strong foundation in **Statistics**
-- 🗃️ Experienced with **MySQL** (queries, joins, functions)
-- 📊 Solid understanding of **EDA** (Exploratory Data Analysis)
-- 📈 Building interactive dashboards using **Power BI**
-- 🌐 Hands-on with **Web Scraping** (BeautifulSoup, Selenium)
-- 📚 Always learning and expanding my analytical skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🔧 Tech Stack & Tools
-
-### 🖥️ Programming & Libraries
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
-- SQL (MySQL)
-
-### 📊 Data Visualization
-- Power BI  
-- Matplotlib  
-- Seaborn  
-
-### 🛠️ Other Skills
-- Data Cleaning & Preprocessing  
-- Feature Engineering  
-- Version Control: Git & GitHub  
-- Web Scraping (BeautifulSoup, Requests)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vaibhav-umbarkar47&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vaibhav-umbarkar47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-### 📌 IMDb Movie Sales Analysis – Power BI Dashboard
-Analyzed 1,000+ movies, explored ratings, revenue, genre performance, and created an interactive Power BI dashboard.
-
-### 📌 Google Play Store App Review Analysis
-Performed data cleaning, merging, EDA, visualizations, and built insights into app performance and user sentiments.
-
-### 📌 Web Scraping Projects
-Scraped real-world datasets (products, movies, etc.) using Python’s BeautifulSoup.
-
-*(You can add GitHub project links here!)*
-
----
-
-## 📈 Currently Learning
-- 🤖 Machine Learning Algorithms  
-- 📘 Advanced Statistics  
-- 🧩 SQL Optimization & Data Modeling  
-
----
-
-## 📫 Connect With Me
-- 💼 **LinkedIn:** *Add your LinkedIn link*  
-- 📧 **Email:** *Add your email here*  
-- 🌐 **Portfolio Website:** *If available*  
-
----
-
-## ⭐ Support My Work
-If you like my projects, please ⭐ **star the repositories**!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
