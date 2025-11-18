@@ -1,3 +1,5 @@
+![profile view counter on GitHub](https://komarev.com/ghpvc/?username=vaibhav-umbarkar47)
+
 # 👋 Hi, I'm **Vaibhav Umbarkar**
 ### 🚀 *Aspiring Data Scientist | Data Analyst | ML Enthusiast*
 
