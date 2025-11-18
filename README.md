@@ -46,7 +46,7 @@ Analyzed 1,000+ movies, explored ratings, revenue, genre performance, and create
 Performed data cleaning, merging, EDA, visualizations, and built insights into app performance and user sentiments.
 
 ### 📌 Web Scraping Projects
-Scraped real-world datasets (products, movies, etc.) using Python’s BeautifulSoup and Selenium.
+Scraped real-world datasets (products, movies, etc.) using Python’s BeautifulSoup.
 
 *(You can add GitHub project links here!)*
 
