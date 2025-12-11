@@ -7,7 +7,7 @@ Welcome to my GitHub!
 I’m passionate about transforming raw data into meaningful insights and building data-driven solutions. I love exploring datasets, uncovering trends, and creating impactful dashboards & models.
 
 # 💫 About Me:
-🎓 Aspiring Data Scientist<br><br>🐍 Skilled in Python for data analysis & automation<br><br>🧮 Strong foundation in Statistics<br><br>🗃️ Experienced with MySQL (queries, joins, functions)<br><br>📊 Solid understanding of EDA (Exploratory Data Analysis)<br><br>📈 Creating interactive reports using Power BI<br><br>🌐 Hands-on with Web Scraping (Selenium / BeautifulSoup)<br><br>📚 Constantly learning & improving my analytical skills
+🎓 Aspiring Data Scientist<br><br>🐍 Skilled in Python for data analysis & automation<br><br>🗃️ Experienced with MySQL (queries, joins, functions)<br><br>📊 Solid understanding of EDA (Exploratory Data Analysis)<br><br>📈 Creating interactive reports using Power BI<br><br>🌐 Hands-on with Web Scraping (Selenium / BeautifulSoup)<br><br>📚 Constantly learning & improving my analytical skills
 
 
 ## 🌐 Socials:
